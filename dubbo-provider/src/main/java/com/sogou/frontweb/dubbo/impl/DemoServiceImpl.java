@@ -1,11 +1,11 @@
-package com.sogou.frontweb.dubbo.provider;
+package com.sogou.frontweb.dubbo.impl;
 
 /**
  * Created by jiangweiqun on 2016/9/19.
  */
 
-import com.sogou.frontweb.dubbo.api.DemoService;
-import com.sogou.frontweb.dubbo.api.User;
+import com.sogou.frontweb.dubbo.bean.User;
+import com.sogou.frontweb.dubbo.service.DemoService;
 
 import java.util.ArrayList;
 import java.util.List;

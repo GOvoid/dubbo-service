@@ -1,4 +1,4 @@
-package com.sogou.frontweb.dubbo.api;
+package com.sogou.frontweb.dubbo.bean;
 
 import java.io.Serializable;
 

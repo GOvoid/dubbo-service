@@ -11,8 +11,8 @@
     <file url="file://$PROJECT_DIR$/dubbo-consumer/src/main/java/com/sogou/frontweb/dubbo/consumer/Consumer.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/dubbo-provider" charset="GBK" />
     <file url="file://$PROJECT_DIR$/dubbo-provider/src" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/dubbo-provider/src/main/java/com/sogou/frontweb/dubbo/impl/DemoServiceImpl.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/dubbo-provider/src/main/java/com/sogou/frontweb/dubbo/provider" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/dubbo-provider/src/main/java/com/sogou/frontweb/dubbo/provider/DemoServiceImpl.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/dubbo-provider/src/main/java/com/sogou/frontweb/dubbo/provider/Provider.java" charset="GBK" />
     <file url="PROJECT" charset="GBK" />
   </component>

@@ -1,6 +1,6 @@
 package com.sogou.frontweb.dubbo.consumer;
 
-import com.sogou.frontweb.dubbo.api.DemoService;
+import com.sogou.frontweb.dubbo.service.DemoService;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import java.util.List;

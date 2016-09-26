@@ -1,4 +1,4 @@
-package com.sogou.frontweb.dubbo.api;
+package com.sogou.frontweb.dubbo.service;
 
 /**
  * Created by jiangweiqun on 2016/9/19.
